@@ -1,0 +1,28 @@
+.bg-dark{
+    background-color: #022E7E !important;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 28px;
+}
+.navbar-dark .navbar-nav .nav-link{
+ font-weight: 700;
+ font-size: 14px;
+ text-transform: uppercase;
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+.btn{
+    margin: 10px;
+    border-radius: 10px;
+}
+.logo{
+    height: 70px;
+    width: auto;
+}
+img{
+    width: 100%;
+    height: 450px;
+}

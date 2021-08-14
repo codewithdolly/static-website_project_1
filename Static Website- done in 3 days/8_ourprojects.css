@@ -1,0 +1,33 @@
+body{
+    background-color: #F5F5F5;
+}
+.media{
+    border: 1px solid grey;
+    padding: 10px;
+    background: white;
+    border-radius: 10px;
+}
+
+p{
+    font-style: italic;
+    text-align: justify;
+    margin-left:10px ;
+}
+p:hover
+
+
+h4{
+    
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin: 5px;
+}
+.fas{
+    color: #FFCA28;
+}
+.icons{
+    margin: 10px;
+    color: #81D4FA;
+}
